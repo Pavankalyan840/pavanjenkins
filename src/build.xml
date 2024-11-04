@@ -1,0 +1,7 @@
+<project name="pavanANT" default="" basedir=".">
+
+<property name="test.home" vale="${basedir}"/>
+	<target name="frist">
+	<echo>this is  Ant tutuorial !!</echo>
+	</target>
+</project>
